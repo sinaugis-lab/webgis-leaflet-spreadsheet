@@ -16,4 +16,4 @@ Mini project dalam rangka membantu kabupaten/kota agar dapat menyajikan data kas
 - [Ubah Data Wilayah Lain](_tutorial/2.UbahDataGeojson.md)
 
 ---
-`unsorry@2020`
+contribut to `unsorry@2020`
